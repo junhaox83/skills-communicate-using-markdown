@@ -10,3 +10,8 @@ std::string ToStr(const int value) {
   return "value";
 }
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
